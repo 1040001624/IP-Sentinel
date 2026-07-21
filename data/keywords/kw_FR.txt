@@ -1,3 +1,13 @@
+nguyen journaliste
+europe 1
+radio france
+ouest france
+le progres
+meteo 15 jours
+creusot infos
+sporting portugal rc strasbourg
+canada
+ferry
 outlook
 20 minutes
 la chaine meteo
@@ -43,7 +53,6 @@ giorgia meloni
 bourse
 bbc news
 hava durumu
-europe 1
 ascenseur
 sept à huit
 meteo montpellier
@@ -89,12 +98,3 @@ purepeople
 mohammad ghalibaf
 rafael van der vaart
 décret
-fire point
-slovaquie
-plan orsec
-route du rhum
-tirage eurodreams
-incidents france maroc
-olivier faure
-edf
-la depeche
